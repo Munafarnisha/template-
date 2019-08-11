@@ -1,0 +1,336 @@
+/* Nav-bar */
+.nav-bar {
+	border: 2px solid  transparent;
+	width:100%;
+	padding:3px;
+text-align:center;
+	height: 60px;
+	margin-top:15px;
+}
+.nav-bar a {
+	border: 2px solid transparent;
+	width: 50px;
+	height: 20px;
+	color:black;
+	
+	margin-left:20px;
+	font-size:10px;
+	font-weight:620;
+}
+#logo
+{
+	width: 80px;
+	height: 40px;
+	border:2px solid transparent;
+	margin-left:100px;
+}
+
+
+/* carousel */
+	.carousel-inner img {
+	width: 100%;
+	height: 500px;
+	opacity:1;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+#buybut
+{
+	font-size:15px;
+}
+.container
+{
+	border:2px solid transparent;
+	width:750px;
+	height:350px;
+	position:relative;
+	right:120px;
+	text-align:left;
+	bottom:40px;
+}
+#hedr
+{
+font-size:60px;
+font-weight:700;
+word-spacing:3px;
+font-weight:800;
+}
+/* our service */
+
+
+.servicehead{
+	
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border:2px solid transparent;
+	font-weight:900;
+	text-align: center;
+}
+
+#subhead{
+	font-weight:800;
+	font-size:15px;
+}
+
+#service
+{
+	
+	height:200px;
+	border:2px solid transparent;
+	padding-left:50px;
+	padding-right:50px;
+	
+}
+#subcon{
+	
+	border:2px solid transparent;
+	padding-left:30px;
+	text-align:left;
+	font-size:13px;
+	
+}
+
+/* about */
+#abtcon
+{
+	border:2px solid transparent;
+	padding-top:70px;
+	padding-left:65px;
+	padding-right:75px;
+	
+}
+#subabtcon
+{
+	font-size:12px;
+	padding-top:20px;
+	word-spacing:1px;
+	line-height:20px;
+	text-align:left;
+	font-weight:500;
+}
+.lincon{
+	border:2px solid transparent;
+	width:170px;
+	height:200px;
+	padding-top:25px;
+	
+}
+.lincon1{
+	border:2px solid transparent;
+	width:170px;
+	height:200px;
+	position:relative;
+	bottom:200px;
+	left:200px;
+	padding-top:25px;
+	
+}
+#subcon1{
+	position:relative;
+	bottom:50px;
+	
+	border:2px solid transparent;
+	padding-left:50px;
+	text-align:left;
+	word-spacing:0px;
+	line-height:20px;
+	font-size:12px;
+	height:200px;
+	
+}
+#subcon2{
+	position:relative;
+	bottom:50px;
+	width:180px;
+	border:2px solid transparent;
+	padding-left:50px;
+	text-align:left;
+	word-spacing:0px;
+	font-size:13px;
+	height:200px;
+	
+}
+
+.imgcon1{
+	font-weight:700;
+	font-size:15px;
+	width:120px;
+	position:relative;
+	bottom:35px;
+	left:50px;
+	height:50px;
+	border:2px solid transparent;
+	text-align:left;
+	line-height:20px;
+}
+
+/*--impressive feaure--*/
+#impcon{
+	
+	font-weight:700;
+	font-size:15px;
+	width:300px;
+	position:relative;
+	bottom:35px;
+	left:50px;
+	border:2px solid transparent;
+	text-align:left;
+	
+
+}
+.impicon{
+	width:450px;
+	height:80px;
+	border:2px solid transparent;
+	margin-top:25px;
+	margin-left:15px;
+	padding-left:0px;
+}
+#impcon1{
+	position:relative;
+	bottom:50px;
+	
+	border:2px solid transparent;
+	padding-left:50px;
+	text-align:left;
+	word-spacing:0px;
+	line-height:20px;
+	font-size:12px;
+	
+	
+}
+#imprecon
+{
+	border:2px solid transparent;
+	padding-top:60px;
+	padding-left:65px;
+	padding-right:75px;
+	
+}
+/*--get it--*/
+.button
+{  
+ background-color:white;
+  padding: 5px 20px;
+  text-align: center;
+  color:black;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+	position:relative;
+	bottom:60px;
+	left:800px;
+}
+#quotes
+{
+	
+	color:white;
+	font-size:18px;
+	padding:25px;
+	padding-left:100px;
+}
+#quotescon{
+	font-size:12px;
+}
+/* meet team */
+.meetcon {
+	margin: 50px 0;
+	background-color:#fafafa;
+}
+
+.meetcon img {
+	width: 100%;
+	padding: 20px 0;
+	transition: 1s;
+	cursor: pointer;
+}
+
+.meetcon img:hover {
+
+	transform: scale(0.6);
+}
+
+
+
+.conmeet {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+
+a {
+	border: 2px solid transparent;
+	width: 60px;
+	height: 30px;
+	margin-left:60px;
+	
+}
+#subtitle
+{
+	font-size:25px;
+}
+.subtit{
+	
+	font-style:italic;
+}
+/* RECENT NEWS */
+.meetcon1 {
+	margin: 50px 0;
+}
+
+.meetcon1 img {
+	width: 100%;
+	padding: 20px 0;
+	transition: 1s;
+	cursor: pointer;
+}
+
+.meetcon1 img:hover {
+
+	transform: scale(1.1);
+}
+#subnew{
+	font-size:15px;
+	font-weight:1000;
+	text-align:left;
+}
+
+.connew {
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.subtitnew{
+	
+	font-style:italic;
+	font-size:13px;
+}
+time{
+	color:red;
+}
+#newcon
+{
+	text-align:justify;
+	font-size:12px;
+	line-height:20px;
+}
+/* our client */
+#ourcl{
+	padding-left:100px;
+	padding-right:70px;
+}
+/* footer*/
+.footericon
+{
+position:relative;
+
+left:800px;
+bottom:45px;
+}
+#footcon{
+	padding-left:40px;
+	color:gray;
+}
